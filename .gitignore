@@ -1,0 +1,12 @@
+# Virtual environment  
+venv/ 
+
+# Python cache
+__pycache__/
+
+# IDE-specific files 
+.idea
+
+# Data and generated files  
+*.pickle  
+*.data  
